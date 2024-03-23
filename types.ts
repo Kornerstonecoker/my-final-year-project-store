@@ -37,3 +37,18 @@ export interface Color {
   name: string;
   value: string;
 }
+
+export interface Booking {
+  id: string;
+  productId: string;
+  product: Product;
+  userName: string;
+  location: string;
+  pickUpDate: string; 
+  dropOffDate: string; 
+  pickUpTime: string;
+  dropOffTime: string;
+  contactNumber: string;
+  createdAt: string; 
+  updatedAt: string; 
+}
