@@ -21,6 +21,6 @@ npm run dev
 
 
 
-Make sure to run this first on[http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Make sure to run this after running the Admin Dashboard [http://localhost:3001](http://localhost:3001) with your browser to see the result.
 
 
